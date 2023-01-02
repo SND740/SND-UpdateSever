@@ -1,1 +1,3 @@
+add /disk/bb3/Sonic.ar.00
+add /disk/bb2/Title.ar.00
 add mod.ini
