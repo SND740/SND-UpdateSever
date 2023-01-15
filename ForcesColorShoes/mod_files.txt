@@ -1,1 +1,3 @@
+add /gd_PC/PRS/sonictex.pak
+add /gd_PC/PRS/ssonictex.pak
 add mod.ini
